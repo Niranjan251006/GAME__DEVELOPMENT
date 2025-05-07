@@ -277,7 +277,18 @@ int main()
 
 
 **Output :**
+![438538497-f77a22c1-a6f0-4634-8d92-53c23cc5aae5](https://github.com/user-attachments/assets/9aa897fb-1a6b-4993-b5d5-32a45ad111b3)
+![438538650-4e8fa9ac-f0b9-44a4-8ffd-8f06e1af3691](https://github.com/user-attachments/assets/7efc60ac-e374-43d7-bfa1-080036e3d9fe)
+![438538706-1ef583b1-3b90-462a-9ee3-27d8623b4d5a](https://github.com/user-attachments/assets/2a37e265-14e9-4b19-b58c-38629db321b9)
+![438538732-99e41ca1-8e08-45d6-801c-153349fd85ba](https://github.com/user-attachments/assets/fb7a60e8-14ec-4b15-8b9b-a78b99186426)
+![438538879-b5fa5a18-dd64-4136-80e3-75d62a515bed](https://github.com/user-attachments/assets/913b3455-f2fe-411f-b041-78444afe6868)
+![438538881-9e92d1de-1572-4d29-aa54-579ffebeb52a](https://github.com/user-attachments/assets/b4f6e5bf-e3e9-4e1c-ae07-a67bb2cfc10e)
+![438538880-b50f3af5-99e5-4125-94a1-0aef44f49a25](https://github.com/user-attachments/assets/0043b2d2-dbe8-45ae-a0ae-0782abd37f4b)
+![438538883-883a64cc-16a0-4f75-8e65-8171a821aae1](https://github.com/user-attachments/assets/40d95560-0ccb-4427-ba4b-038466f3b702)
+![438538882-606db8c9-dffc-422f-b02a-c87d460cf3b0](https://github.com/user-attachments/assets/cae9afae-5cb0-4304-8fb1-260ab9121205)
 
 
 
 **Result :**
+Successfully completed a C program to implement 2D transformation of image.
+
